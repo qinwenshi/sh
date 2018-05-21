@@ -5,7 +5,6 @@ category : BlockChain
 tagline: "Supporting tagline"
 tags : [区块链,比特币,数字货币]
 ---
-{% include JB/setup %}
 # 听吕国宁的AHA分享
 ---
 
