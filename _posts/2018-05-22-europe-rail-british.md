@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Europe Rail(UK)"
-description: "Eruope Rail UK"
+title: Europe Rail(UK)
+description: Eruope Rail UK
 categories: [rail]
 tags: [rail, jekyll]
 redirect_from:
