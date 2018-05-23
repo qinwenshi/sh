@@ -17,14 +17,18 @@ ATOC共有下面25家运营公司：
 ## Abellio Greater Anglia(阿贝里奥·大盎格利亚铁路)
 大盎格利亚铁路主要运营大伦敦与伦敦北部、东北部和英国东部的客运铁路服务，其大部分列车服务均始发/终于伦敦利物浦街站（London Liverpool Street）。自2015年月起，该公司大部分伦敦郊区的线路服务以转交给TfL Rail和伦敦地上铁（London Overground）运营。该公司同时也运营其下属品牌斯坦斯特德快线（Stansted Express）的列车服务。
 
+![result_of_x](/image/europe_rail/greateranglia_route_map.jpg){:width="700px"}
+
 ### 覆盖地区
 大伦敦(Greater London)、剑桥郡(Cambridgeshire)、埃塞克斯郡（Essex）、英国东部，
 ### 途经主要车站：
 伦敦利物浦街站(London Liverpool Street)、斯特拉特福德站(Stratford)、
 绍森德维多利亚站(Southend Victoria)、剑桥站(Cambridge)、诺里奇站
 (Norwich)、彼得伯勒站（Peterborough）
+
 ## Arriva Trains Wales(爱瑞发·威尔士列车)
 威尔士列车公司是威尔士境内主要的客运铁路服务运营商，除了城铁模式的短途列车外，该公司也有列车服务延伸至英格兰境内的伯明翰、曼彻斯特、什鲁斯伯里等城市与其它运营商的列车服务接驳。由之管理的卡尔迪夫中央站（Cardiff Central）是英国西部最大的铁路枢纽站之一。
+![result_of_x](/image/europe_rail/Arriva-Trains-Wales-Train-Network-Map.jpg){:width="700px"}
 
 ### 覆盖地区
 威尔士(Wales)全境、大曼彻斯特（Greater Manchester）、西米德兰（West Midland）、柴郡（Cheshire）
@@ -34,6 +38,7 @@ ATOC共有下面25家运营公司：
 ## C2c Rail 首都—海岸铁路
 可以理解为 Capital-to-Coast或者City-to-Coast
 该公司运营的客运服务里程较短，覆盖范围也比较小，基本上连接了伦敦市中心与英国东部城市滨海绍森德（Southend-on-Sea）和舒伯里内斯（Shoeburyness），也提供大伦敦东部的通勤服务。
+![result_of_x](/image/europe_rail/c2c-routemap.svg){:width="700px"}
 
 ### 覆盖地区
 大伦敦（Greater London）、埃塞克斯郡（Essex）
@@ -42,6 +47,9 @@ ATOC共有下面25家运营公司：
 
 ## Caledonian Sleeper 加勒多尼卧铺列车
 加勒多尼卧铺列车实际上是一系列来往于伦敦——苏格兰的夜间列车服务的统称
+
+![result_of_x](/image/europe_rail/caledonian-sleeper-route-map.jpg){:width="700px"}
+
 ### 覆盖地区
 苏格兰全境——伦敦
 
@@ -50,6 +58,8 @@ ATOC共有下面25家运营公司：
 
 ## Chiltern Railways奇尔顿铁路
 奇尔顿铁路是伦敦通往英国中部地区的重要客运通道，也是“奇尔顿干线（Chiltern Mainline）”唯一的客运铁路运营商。其主要客运服务为伦敦——牛津，伦敦——伯明翰及伯明翰南部短距离的通勤线路。其中也包含伦敦至英国著名购物点——比斯特村（Biscester Village）的客运服务，全程大约为50分钟。
+
+![result_of_x](/image/europe_rail/chiltern-railways-route.png){:width="700px"}
 ### 覆盖地区
 大伦敦（Greater London）、白金汉郡（Buckinghamshire）、牛津郡（Oxfordshire）、瓦里克郡（Warwickshire）、西米德兰（West Midland）
 ### 主要车站
@@ -58,6 +68,8 @@ ATOC共有下面25家运营公司：
 ## CrossCountry纵贯铁路
 纵贯铁路是英国重要的铁路运营商之一，主要运营长距离城际的客运铁路服务。其服务的线路覆盖整个英国，并覆盖大部分主要的城市。该公司从英国西南城市彭赞斯（Penzance）至苏格兰东北阿伯丁（Aberdeen）的铁路服务耗时超过11小时，是整个英国铁路系统中耗时最长、距离最远的客运路线。该运营商也是极少数不直接管理任何车站的运营商之一。
 值得注意的是，虽然其服务线路穿越整个英国，但却没有一条经过于大伦敦内。其所有的列车线路都在伯明翰新街站（Birmingham New Street）停靠。
+
+![result_of_x](/image/europe_rail/cross_country-route.jpg){:width="700px"}
 ### 覆盖地区
 西南全境、英格兰西部、威尔士南部、牛津郡、西米德兰、东米德兰、
 剑桥郡、约克郡、英格兰东北、苏格兰南部、苏格兰东部
@@ -74,6 +86,8 @@ ATOC共有下面25家运营公司：
 ## East Midlands Trains 东米德兰列车
 东米德兰列车主要负责伦敦——英格兰中北部以及其内部的客运铁路服务。与其他中部铁路运营商相比，该公司线路分布比较密、覆盖面广，还保持了较快的运行速度。该运营商列车服务的伦敦枢纽为圣潘克拉斯国际车站，同时也运营伦敦至其北部卢顿机场(Luton Airport)的客运服务。
 值得一提的是，该公司实际管理的车站数量多于其提供服务的车站的数量，其中包括只由纵贯铁路（CrossCountry）公司提供服务却不由其管理的车站。
+
+![result_of_x](/image/europe_rail/east-midland-route-map.jpg){:width="700px"}
 ### 覆盖地区
 大伦敦、东米德兰、英格兰东北部、东部
 ### 主要车站
@@ -82,8 +96,14 @@ ATOC共有下面25家运营公司：
 （Sheffield）、利兹站（Leeds）、彼得伯勒站（Peterborough）、诺里奇站（Norwich）
 
 ## Eurostar (UK) 欧洲之星
+欧洲之星是一条连接英国伦敦圣潘克拉斯车站与法国巴黎、里尔与比利时布鲁塞尔以及荷兰阿姆斯特丹的高速铁路服务。
+![result_of_x](/image/europe_rail/eurostar_map.gif){:width="700px"}
+
 ## First Hull Trains 赫尔列车
 赫尔列车全部的客运服务都为来往英格兰东北城市赫尔和伦敦市中心【（实际上小部分列车服务延伸至赫尔北部地区贝弗利（Beverley）】，而该线路的主要部分沿着东海岸干线（East Coast Mainline）行驶，全程耗时大约1小时50分钟左右。与其他部分open access的运营商相似，该运营商的满意度也排英国所有火车运营商前列。
+
+![result_of_x](/image/europe_rail/first-hull-map.gif){:width="700px"}
+
 ### 覆盖地区
 伦敦——英格兰东北部
 ### 途经车站
@@ -94,6 +114,8 @@ ATOC共有下面25家运营公司：
 奔宁山脉（Pennine Hills）是英格兰北部主要的山脉和英格兰与苏格兰低地的主要分水岭，也是该运营商服务的主要涵盖区域。该运营商列车服务连接了苏格兰南部和英格兰中北部的主要城市，并以中长线路快车为主。其所有的列车服务都经过曼彻斯特（Manchester）市中心，也提供曼彻斯特机场主要的火车接驳服务。
 
 该运营商是英国少有的提供全天24小时服务的运营商之一，甚至包括每年的平安夜和元旦前一日晚上都有常规列车服务。该运营商由2016年4月1日起运行，之前其名称为First TransPennine Express，由FirstGroup和Keolis合资。
+
+![result_of_x](/image/europe_rail/first-trans-pennine-express-route.jpg){:width="700px"}
 
 ### 主要覆盖地区
 苏格兰南部、英格兰中北部、大曼彻斯特
@@ -106,6 +128,9 @@ ATOC共有下面25家运营公司：
 
 ## Grand Central 大中央铁路
 大中央铁路主要的列车服务均位于东海岸干线（East Coast Mainline）。两种行车线路中一条向东分叉并终于英格兰东北部城市桑德兰，另一条向西分叉并终于英格兰中北部城市布拉德福德。此外，该公司也是英国所有铁路运营商中顾客满意度最高的之一（2010年秋季调查满意度95%）。
+
+![result_of_x](/image/europe_rail/grand-central-route.jpg){:width="700px"}
+
 ### 覆盖地区
 伦敦——英格兰北部
 ### 途经车站
@@ -115,6 +140,9 @@ ATOC共有下面25家运营公司：
 大北方铁路是大伦敦与其北部的客运铁路线路的统称，负责大伦敦内部北郊的通勤服务和伦敦以北地区来往伦敦的短距离客运服务。与该片区内的其它词条不同，大北方铁路并非独立的运营商，甚至不是该运营商下的品牌。实际上真正的品牌为“泰晤士连线和大北方铁路”（Thameslink and Great Northern）。后者与盖特威克快线（Gatwick Express）一样，为Govia Thameslink Railway旗下的品牌。(有关进一步的信息请见稍后的Thameslink部分)
 
 值得注意的是，由于该线路运营的交路比较单一，故它专门开设了一条伦敦——剑桥的直达快车，并只停首尾两站，全程耗时55分钟左右。
+
+![result_of_x](/image/europe_rail/great-northern-route.png){:width="700px"}
+
 ### 覆盖地区
 大伦敦（Greater London）、伦敦北部、剑桥郡等（Cambridgeshire）
 ### 主要车站
@@ -124,6 +152,8 @@ ATOC共有下面25家运营公司：
 ## Great Western Railway 大西部铁路
 大西部铁路（2015年9月20日前名称为第一大西部 First Great Western）是英国著名的客运铁路运营商，也是伦敦西部、英国西部、西南的主要客运铁路运营商。虽然其列车速度在英国南部的铁路运营商中首屈一指，但是其服务范围部分也有相当一部分未实行电气化。其位于英国南海岸沿线的服务则实行第三轨供电，接触网供电部分位于West Coast Mainline来往于伦敦与英国西部城市布里斯托尔（Bristol）。
 此外，该公司所运营的铁路服务的平均拥挤程度和车辆的利用密度也曾多次在全英排行榜上位列第一。其伦敦枢纽帕丁顿站（Paddington）也曾被评为英国最拥挤的铁路枢纽。该公司的列车曾在电影《帕丁顿熊》中亮相。
+
+![result_of_x](/image/europe_rail/great-western-route-map.png){:width="700px"}
 
 ### 覆盖地区
 大伦敦（Greater London）、泰晤士河谷(Thames Valley)、西南、威尔士南部
@@ -137,6 +167,9 @@ ATOC共有下面25家运营公司：
 希思罗快线提供中间不停站的直达服务，而略过其它伦敦郊区的站点，全程耗时21分钟左右。
 
 该列车服务通常只停希斯罗中央站（Heathrow Central）与5号航站楼。前往4号航站楼的旅客需在中央站换乘另一列穿梭列车，或者在市区搭乘希思罗连线（Heathrow Connect）前往。
+
+![result_of_x](/image/europe_rail/Heathrow_Express_Train_Map.gif){:width="700px"}
+
 ### 覆盖地区
 伦敦市中心——希斯罗机场
 ### 主要车站
@@ -148,6 +181,8 @@ ATOC共有下面25家运营公司：
 连接伦敦和英格兰中部地区重要的通道之一，其主要客运服务以西海岸干线（West Coast Mainline）为中心并展开支线。与同样于西海岸干线运营客运服务的其他运营商相比，伦敦米德兰的客运服务以短距离、多站点的为主。因此于同样的起始站点进行比较时，该运营商票价相对更加便宜，但停站较多，耗时也相对较长。
 
 其最重要的线路为伦敦尤斯顿站至伯明翰新街站的列车服务。该运营商也是伯明翰等英格兰中部地区郊区的主要通勤铁路运营商。
+
+![result_of_x](/image/europe_rail/london-midland-route.jpg){:width="700px"}
 
 ### 覆盖地区
 大伦敦、西米德兰、英格兰中西部
@@ -161,6 +196,8 @@ ATOC共有下面25家运营公司：
 英国服务规模较小、范围较窄的客运铁路运营商之一。其名字来源于它服务的主要二级行政区默西塞德郡（Merseyside）。它位于英格兰西北部，濒临爱尔兰海，与南边的威尔士隔海相望，其中最大（也是唯一一个）城市为利物浦，也是该运营商客运服务的中心。该运营商运营的铁路系统是英国除大伦敦外最繁忙的铁路系统之一。
 
 除了链接该郡内部城镇的铁路服务外，该运营商所运营的Wirral Line（整个由其运营的铁路系统的一部分）位于利物浦市区的部分也是该市实际上的地下铁系统。
+
+![result_of_x](/image/europe_rail/merseyrail-route.png){:width="700px"}
 ### 覆盖地区
 默西塞德郡（Merseyside）
 ### 主要车站
@@ -169,6 +206,7 @@ ATOC共有下面25家运营公司：
 ## Northern 北方铁路
 北方铁路（正式名称为Arriva Rail North）运营的客运铁路覆盖整个英格兰中北部，是英格兰北部最重要的客运服务的铁路运营商之一。其列车服务通常停站较多、耗时较长（相同区域内的大站快车服务通常由TransPennine Express和East Midland Trains这两个运营商运营）。该运营商也是英国直接管理车站数量最多的运营商。
 该运营商从2016年4月开始运营，取代之前由信佳集团、阿贝里奥公司合资的Northern Rail公司。
+![result_of_x](/image/europe_rail/northern-rail-route.jpg){:width="700px"}
 ### 覆盖地区
 英格兰北部（柴郡、达勒姆郡、坎布里亚郡、大曼彻斯特、兰开夏郡、
 默西塞德郡、诺森伯兰郡、提赛德、泰恩-威尔郡和约克郡等）
@@ -209,6 +247,8 @@ ATOC共有下面25家运营公司：
 
 ## South West Trains 西南列车
 西南列车是大伦敦西南区、英国南偏西地区的主要运营商，其列车服务主要提供伦敦西南的通勤服务和英国西南各都会区快速进入首都的服务。相比起Southern和Southeastern，西南列车线网的集散度更高。所有的火车线路都起始于伦敦滑铁卢站，并在郊区呈发散性散开。对于部分已有其它运营商运营快车进入伦敦的城市（如Reading），西南列车仅提供站站停的慢车服务进伦敦，以避免直接竞争。
+
+![result_of_x](/image/europe_rail/SW0-route.jpg){:width="700px"}
 ### 覆盖地区
 大伦敦、英国西南
 ### 主要车站
@@ -234,6 +274,8 @@ ATOC共有下面25家运营公司：
 英国时间2007年2月23日中午约12:15，由该运营商运营的一辆由伦敦前往格拉斯哥的列车在英国西北部格雷里格村出轨，事故共造成1死77伤。Network Rail调查后证实，肇事路段其中一个轨枕上的3个扣件出现松脱或遗失，因而令列车车轮无法紧贴路轨边行走，继而引发出轨事故。
 
 与此相对应的维珍铁路东海岸（Virgin Trains East Coast）也是维珍集团所持部分股权的英国铁路运营商品牌，两者已经完全分开运营。
+
+![result_of_x](/image/europe_rail/virgin-route.jpg){:width="700px"}
 ### 覆盖地区
 大伦敦、西米德兰、大曼彻斯特、默西塞德郡、苏格兰南部
 ### 主要线路
@@ -246,9 +288,13 @@ ATOC共有下面25家运营公司：
 维珍铁路（东海岸）与上一个一样也是英国著名的铁路运营商，占据了英国东海岸干线（East Coast Mainline）上主要的列车服务，连接伦敦和英国东部、东北部、苏格兰南部和东部的主要都会区，仍以大站快车为主。其所有的列车服务均始发于/终于伦敦国王十字站（London King’s Cross）。其最长的列车服务由伦敦至苏格兰东北部城市阿伯丁（Aberdeen），耗时约6个小时。
 
 现在各大车站的PIDS上通常将其简写为Virgin Trains EC。然而，该品牌的归属与维珍铁路（西海岸）并不相同。
+
+![result_of_x](/image/europe_rail/virgin-route.jpg){:width="700px"}
 ### 覆盖地区
 大伦敦、约克郡、英国东北部、苏格兰南部、苏格兰东部、苏格兰中北部
 ### 主要站
 伦敦国王十字站（London King's Cross）、彼得伯勒站（Peterborough）、
 约克站（York）、利兹站（Leeds）、纽卡斯尔站（Newcastle）、
 爱丁堡（伍弗丽）站（Edinburgh Waverley）、阿伯丁站 （Aberdeen）
+
+- 图片均转载自网络
