@@ -3,7 +3,7 @@ layout: post
 title: Europe Rail(UK)
 description: Eruope Rail UK
 categories: [rail]
-tags: [rail, jekyll]
+tags: [rail, train]
 redirect_from:
   - /2018/05/22/
 ---
