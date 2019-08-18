@@ -30,3 +30,5 @@ redirect_from:
 ![Gif](https://github.com/jesseduffield/lazygit/raw/master/docs/resources/lazygit-example.gif)
 
 前两天在Facebook上看到一个界面也很炫的客户端 [gitkraken](https://www.gitkraken.com/)，看上去不错。它集成了一个叫Glo的东东，看起来像是集成的Trello。先玩一段时间看看。
+
+![Gitkraken](/image/2019-08-19/gitkraken.png){:width="450px"}
