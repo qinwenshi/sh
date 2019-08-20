@@ -56,9 +56,9 @@ blog:
   footer_content: Shi Qinwen's Personal Website.
 
 disqus:
-  shortname:
-  public_key:
-google_analytics:
+  shortname: wenblog
+  public_key: aKHyNODneMjnJkCWf3690NWbuAxAQ05GeprcoWyOZuP6EDp2g319NtPbvCgqqTEE
+google_analytics: 73013332
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
 
 paths:
