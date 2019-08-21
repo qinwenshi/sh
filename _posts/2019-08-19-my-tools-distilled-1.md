@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 我的工具记录（1）
-description: 记录我使用的一些工具（1）
+title: 我的工具记录（1）- 剪切板与Git
+description: 记录我使用的一些工具（1）- 剪切板与Git
 categories: [tools]
 tags: [development, productive]
 redirect_from:

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 我的工具记录（3）
-description: 记录我使用的一些工具（3）
+title: 我的工具记录（3）- Git服务器
+description: 记录我使用的一些工具（3）- Git服务器
 categories: [tools]
 tags: [development, productive]
 redirect_from:

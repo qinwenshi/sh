@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 我的工具记录（2）
-description: 记录我使用的一些工具（2）
+title: 我的工具记录（2）- Email Marketing
+description: 记录我使用的一些工具（2）- Email Marketing
 categories: [tools]
 tags: [development, productive]
 redirect_from:
