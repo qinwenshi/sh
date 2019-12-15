@@ -132,6 +132,7 @@ chisel client --auth user:pass http://trenitalia.g2rail.com:8080 9001:trenitalia
 1. 它的代码很简单，简单意味着出问题几率更少
 2. 它把授权的过程封装起来，所有的铁路公司的challenge都由它来处理:
   如下图所示，也就是说，中国的机器只需要把搜索请求发给日本的机器，由日本这台机器来处理NTLM授权的问题，所有授权登录相关的问题不再回到中国的机器。
+  
   ![BunleNameChangeSet](/image/2019-12-14/NTLM-reverse-proxy.jpg){:width="450px"}
 3. NTLM的有状态的连接被我的NTLM reverse proxy改造成无状态的http协议，从而我也可以通过cloudflare来加速中国和日本之间的链路，也可以把这台反向代理的IP地址隐藏在CDN网络之后。
 
