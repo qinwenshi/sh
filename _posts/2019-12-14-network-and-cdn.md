@@ -70,8 +70,19 @@ Chisel仓库里面是是这么描述自己的。
 如果你也想试试这个小工具，可以参考教程：https://0xdf.gitlab.io/2019/01/28/tunneling-with-chisel-and-ssf.html
 
 实现步骤也比较简单，服务器端（日本主机）运行通道的服务端，中国主机运行客户端。服务器端通过Cloudflare解析为 http://trenitalia.g2rail.com，并且把对意铁API的443端口访问暴露在本地的 9001 端口。
-* ./chisel server -p 8080
-* chisel client --auth user:pass http://trenitalia.g2rail.com:8080 9001:trenitalia.it:443
+
+服务端
+
+```bash
+./chisel server -p 8080
+```
+
+客户端
+
+```bash
+chisel client --auth user:pass http://trenitalia.g2rail.com:8080 9001:trenitalia.it:443
+```
+
 通道建立好之后，在widnows服务器里面修改对意铁的endpoint为 https://localhost:9001 就可以实现访问
 
 这个通道上线之后，我很是得瑟了一段时间。因为不管怎么测试，都不会出现Nginx那个”未授权的连接“错误了。好景不长，过了大概2个星期，发现这个连接会非常随机失效，失效后把chisel client重新启动一下就又好了。究竟是啥原因，我有几个猜测，不过没有验证：
