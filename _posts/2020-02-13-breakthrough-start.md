@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Breakthrough Start 0_61(打穿创业0_61)
-description: Breakthrough Start 0_61
+title: Breakthrough Starter 0_61(打穿创业0_61)
+description: Breakthrough Starter 0_61
 categories: [training]
 tags: [training, startup]
 redirect_from:
