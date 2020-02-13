@@ -17,7 +17,7 @@ G2Rail是我们过去三年创立的一个项目，为出境游的旅客提供�
 
 本次培训通过3天时间，让参与者落地体验打造商业App实现商业意图的过程，这个过程是我们在G2Rail中真是经历的坑中的一部分。
 
-[![Breakthrough Start 0_61](http://sh.iqinwen.com/image/bts_0_61/video-img.png)](https://youtu.be/30FRLzGYjYM)
+[![Breakthrough Start 0_61](https://i9.ytimg.com/vi/30FRLzGYjYM/mq2.jpg?sqp=CJaHlPIF&rs=AOn4CLAAtOlSeNqJe3cfBMGjGX9m4qFIDw)](https://youtu.be/30FRLzGYjYM)
 
 ## 课程形式与内容
 
@@ -53,7 +53,7 @@ G2Rail是我们过去三年创立的一个项目，为出境游的旅客提供�
 
 课程结束后，有的学员立即开始招募成员准备创业；有的开始推动内部“打穿”；有的准备把课上的产品继续打磨开始上线。。。
 
-![Breakthrough Start 0_61](http://sh.iqinwen.com/image/bts_0_61/shengyupian.jpeg)
+![Breakthrough Start 0_61](http://sh.iqinwen.com/image/bts_0_61/shengyupian.jpeg )
 
 ![Breakthrough Start 0_61](http://sh.iqinwen.com/image/bts_0_61/neil.jpeg)
 
