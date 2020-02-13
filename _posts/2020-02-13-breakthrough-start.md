@@ -5,7 +5,7 @@ description: Breakthrough Start 0_61
 categories: [training]
 tags: [training, startup]
 redirect_from:
-  - /2019/11/09/
+  - /2020/02/13/
 ---
 
 
