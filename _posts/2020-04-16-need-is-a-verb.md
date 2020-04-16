@@ -18,7 +18,7 @@ redirect_from:
 
 我回复葛亮的时候提到了一个，真正做商业的人（不是指公司的BA），是来自另一个半球。他们时时刻刻都绷着一根弦，会去探索新机会，横向链接Idea。技术世界的人按照编程语言，工作职能把人分成了前端、后端、运维等等职责，大家”术业有专攻“，而做商业的人则不是按照这种方式来思考的。
 
-![Discovery/Dilivery](/image/need-is-a-verb/discovery-and-delivery.jpg)
+![Discovery/Dilivery](/image/need-is-a-verb/discovery-and-delivery.jpg){:width="450px"}
 
 ## 我们的故事
 
