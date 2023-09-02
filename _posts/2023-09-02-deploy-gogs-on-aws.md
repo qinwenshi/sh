@@ -43,8 +43,9 @@ scp -r ./git-backup/mysql.tar.gz ubuneut@xxxx.compute.amazonaws.com:/home/ubuntu
 ```
 5. 把文件解压缩，我的mysql文件放在`/var/mysql/gogs`，gogs相关数据放在 `/var/gogs`了。
 6. 创建git账号，参考自[gitea的攻略](https://docs.gitea.com/installation/install-from-binary)
+
 ```bash
-# On Ubuntu/Debian:
+#On Ubuntu/Debian:
 adduser \
    --system \
    --shell /bin/bash \
@@ -54,7 +55,7 @@ adduser \
    --home /home/git \
    git
 
-# On Fedora/RHEL/CentOS:
+#On Fedora/RHEL/CentOS:
 groupadd --system git
 adduser \
    --system \
@@ -64,8 +65,8 @@ adduser \
    --home-dir /home/git \
    --create-home \
    git
-
 ```
+
 7. 重新启动容器
 MySQL
 ```bash
